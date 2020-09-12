@@ -1,1 +1,1 @@
-# Miner-a_de_datos
+# Mineria_de_datos
