@@ -9,7 +9,7 @@
 [Ejercicios Patrones Secuenciales](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/EJERCICIOS1_PatronesSecuenciales.ipynb)
 
 
-[Mapa Mental 2]()
+[Mapa Mental 2](https://github.com/perladiaaz/Mineria_de_datos/blob/master/MapaMental_2_1809285.pdf)
 
 
 [Resúmenes Técnicas de Minería de datos]()
