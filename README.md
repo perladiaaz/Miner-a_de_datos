@@ -15,4 +15,4 @@
 [Mapa Mental 2](https://github.com/perladiaaz/Mineria_de_datos/blob/master/MapaMental_2_1809285.pdf)
 
 
-[Resúmenes Técnicas de Minería de datos]()
+[Resúmenes Técnicas de Minería de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/Res%C3%BAmenes_1809285.pdf)
