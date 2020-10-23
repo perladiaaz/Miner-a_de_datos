@@ -23,3 +23,6 @@
 # FASE 2 :
 
 [Ejercicio Práctico de Bases de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/An%C3%A1lisisBD_1809285.pdf)
+
+
+[Ejercicios Básicos de Python](https://github.com/perladiaaz/Mineria_de_datos/blob/master/PythonB%C3%A1sico_1809285.ipynb)
