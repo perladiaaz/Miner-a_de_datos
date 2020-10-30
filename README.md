@@ -26,3 +26,6 @@
 
 
 [Ejercicios Básicos de Python](https://github.com/perladiaaz/Mineria_de_datos/blob/master/PythonB%C3%A1sico_1809285.ipynb)
+
+
+[Avance 1 Proyecto](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AVANCE1-PIA_EQUIPO12_GPO3.pdf)
