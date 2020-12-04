@@ -28,8 +28,17 @@
 [Ejercicios Básicos de Python](https://github.com/perladiaaz/Mineria_de_datos/blob/master/PythonB%C3%A1sico_1809285.ipynb)
 
 
-[Avance 1 Proyecto](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AVANCE1-PIA_EQUIPO12_GPO3.pdf)
+[Avance 1 PIA](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AVANCE1-PIA_EQUIPO12_GPO3.pdf)
 
 [P1 - Manipulación de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/LimpiezaDatos_Equipo12.ipynb)
 
 [P2 - Visualización de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/Visualizaci%C3%B3nDatos_Equipo12.ipynb)
+
+
+# FASE 3 :
+
+[Avance 2 PIA](https://github.com/perladiaaz/Mineria_de_datos/blob/master/AvancePIA_II_003_11.html)
+
+[PIA Póster Final](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/POSTER_FINAL_E11.pdf)
+
+
